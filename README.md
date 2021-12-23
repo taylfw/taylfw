@@ -1,6 +1,6 @@
 ### Yo 👋
 
-I'm Frank, a web developer! I like making tools to help with cope with the human condition.
+I'm Frank, a web developer! I like making tools that help with cope with the human condition.
 
 <!--
 **taylfw/taylfw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
