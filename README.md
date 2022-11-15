@@ -1,6 +1,6 @@
 ### Yo 🦥️
 
-I'm Frank, an Infrastructure specialist. I like making web apps in my free time. Check out my stuff!
+I'm Frank, a Sysadmin. I like making web apps in my free time. Check out my stuff!
 
 <p>
 
